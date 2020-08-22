@@ -20,4 +20,4 @@ WIP, do it yourself if you're able to :P
 
 ## Credits
 
-- [DenoXen](https://github.com/DenoXen): Designer of the new logo.
+- [cos8o](https://github.com/coso): Project Idea, Help.
