@@ -8,16 +8,19 @@ WIP, do it yourself if you're able to :P
 ## What doesn't work
 - Loading savegames from the server won't unlock icons.
 - In the garage, every color has a gray lock (on the original game it's gray only for premium colors).
+- Free Stuff button not works, because there no function about that
   
 ## Todo
-- Disable online save feature (this is also disabled on the original game, as 2.2/the merge feature is not out yet).
-- Change guardian text.
-- Add low-res assets.
-- Change assets path to the mobile one.
-- Change window title.
-- Change exe icon.
-- Remove steam completely.
+- All is Done!
+
+## Features
+
+- Full Version Button
+- Deleted some buttons
+- Changed assets path to the mobile one.
+- Changed exe icon.
+- Removed steam completely.
 
 ## Credits
 
-- [cos8o](https://github.com/coso): Project Idea, Help.
+- [cos8o](https://github.com/coso): Project Idea, Help
